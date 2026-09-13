@@ -1,0 +1,6 @@
+{
+  "name": "Nani BP Tracker",
+  "description": "A senior-friendly blood pressure tracker designed for Nani with large fields, instant health categorization, local history, and direct Google Sheets logging.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
